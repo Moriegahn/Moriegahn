@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/96754343/147844628-208502ec-f992-4dbe-a1b3-2d03c3822f70.png)
+
 - 👋 Hi, I’m Morie
 - 👀 I’m interested in Ethical Hacking and Cyber Security.
 - 💼 Currently working as a Sys.-Admin.
